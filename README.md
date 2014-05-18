@@ -173,7 +173,7 @@ You should then expect from the statistician:
 1. The exact computer code they used to run the analysis
 1. All output files/figures they generated. 
 
-This is the information you will use in the supplement to establish reproducibility and precision of your results. Each
+This is the entire information you will use in the supplement to establish reproducibility and precision of your results. Each
 of the steps in the analysis should be clearly explained and you should ask questions when you don't understand
 what the analyst did. It is the responsibility of both the statistician and the scientist to understand the statistical
 analysis. You may not be able to perform the exact analyses without the statistician's code, but you should be able
